@@ -10,10 +10,10 @@
             },
             "commentMeta": {
                 "message": "Blame me",
-                "likes": [],
-                "dislikes": [
+                "likes": [
                     "lqdrru3nqitffb13bd2ylg7rp"
                 ],
+                "dislikes": [],
                 "replyCount": 0,
                 "replyingTo": null,
                 "isEdited": false,
